@@ -1,0 +1,47 @@
+.App {
+  margin: 20px;
+  width: 500px;
+}
+
+.header {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+.containerApp {
+  margin-top: 20px;
+}
+
+.chatInput {
+  padding: 10px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  width: 400px;
+}
+
+button {
+  padding: 10px;
+  margin-left: 20px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  background-color: rgb(171, 171, 243);
+  font-weight: 600;
+}
+
+.chatleft {
+  padding: 10px;
+  margin-top: 20px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  background-color: rgb(171, 171, 243);
+}
+
+.chatright {
+  padding: 10px;
+  margin-top: 20px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  background-color: rgb(171, 171, 243);
+  padding-left: 400px;
+}
